@@ -1,3 +1,5 @@
+using Xunit;
+
 using Gdm.Application;
 using Gdm.Infrastructure;
 

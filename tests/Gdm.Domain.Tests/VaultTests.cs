@@ -1,3 +1,5 @@
+using Xunit;
+
 using Gdm.Domain;
 
 namespace Gdm.Domain.Tests;
